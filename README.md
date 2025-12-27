@@ -1,6 +1,5 @@
 # FDLB
 Final Drive - Lap Board
 
-Trademark Notice
-MCP4H™ and MCP4SH™ are trademarks of their respective owner.
-This repository is licensed under MIT and does not grant trademark rights.
+Final Drive – Lap Board is free to use, modify, and share.
+If you build something cool on top of it, a credit is appreciated but not required.
