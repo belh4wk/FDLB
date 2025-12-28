@@ -1,14 +1,9 @@
 ## Usage & License
 
-Final Drive – Lap Board is an open, community-focused SimHub dash.
+Final Drive – Lap Board is free for personal and community use.
 
-You are free to:
-- Use it in your own SimHub setup
-- Modify it to suit your needs
-- Share it with others
-- Build derivatives or personal variants
+You may use, modify, and share this project for non-commercial purposes.
+Commercial use — including selling, paid bundles, or monetized distributions — is not permitted without explicit permission.
 
-This project is licensed under the MIT License.  
-See the `LICENSE` file for full legal terms.
-
-If you share modified versions publicly, attribution is appreciated but not required.
+Licensed under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
+See the `LICENSE` file for details.
