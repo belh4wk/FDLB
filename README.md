@@ -46,8 +46,8 @@ To build it yourself:
    - Make sure `FDLBSettingsControl.xaml` has **Build Action = Page**.
 
 4. **Build output**
-   - Set the project output path to your SimHub `Plugins` folder  
-     (e.g. `C:\Program Files (x86)\SimHub\Plugins\`), or copy the built DLL there manually after each build.
+   - Set the project output path to your SimHub root or `Plugins` folder  
+     (e.g. `C:\Program Files (x86)\SimHub\`), or copy the built DLL there manually after each build.
 
 5. **Enable the plugin**
    - Restart SimHub.
