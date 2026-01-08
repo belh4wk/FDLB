@@ -68,6 +68,8 @@ Lap Board:
 - Buttons:
   - EXPORT BOARD TO CSV
   - RESET BOARD
+  
+ Emits MCP4H™ lap_result events to FDLB_MCP4H_lapresults.jsonl for downstream tools (e.g. dashboards, Harmonizer, analysis pipelines).
 
 ------------------------------------
 4. FILES / OUTPUT
