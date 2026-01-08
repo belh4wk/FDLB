@@ -20,7 +20,8 @@ This archive should contain:
 1. Close SimHub if it’s running.
 2. Copy `FinalDriveLapBoard.dll` into your SimHub Plugins folder, for example:
 
-   C:\Program Files (x86)\SimHub\Plugins\
+   C:\Program Files (x86)\SimHub\Plugins\   
+   *remove any other version of that dll if you see one (e.g. FinalDriveLapBoard v0.1.dll) too
 
 3. Start SimHub.
 4. Go to: Settings → Plugins
