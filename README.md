@@ -7,6 +7,8 @@ Track your own attempts per car/track/conditions and export everything to CSV.
 
 ## Usage & License
 
+Emits MCP4H™ lap_result events to FDLB_MCP4H_lapresults.jsonl for downstream tools (e.g. dashboards, Harmonizer, analysis pipelines).
+
 Final Drive – Lap Board is free for personal and community use.
 
 You may use, modify, and share this project for non-commercial purposes.  
